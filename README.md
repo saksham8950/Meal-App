@@ -26,7 +26,7 @@ JavaScript
 
 To run the Meal App locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/meal-app.git
+Clone the repository: git clone https://github.com/saksham8950/Meal-App.git
 
 Navigate to the project directory: cd meal-app
 
