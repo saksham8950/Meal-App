@@ -41,7 +41,7 @@ Contributions to the Meal App project are welcome! If you have any suggestions, 
 
 ## Demo
 
-Demo1:-         
+Demo1:-  https://saksham8950.github.io/Meal-App/       
 
 ## License
 
